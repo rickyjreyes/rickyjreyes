@@ -17,6 +17,15 @@ keywords:
 - open science
 repository-code: https://github.com/rickyjreyes/rickyjreyes
 url: https://github.com/rickyjreyes
+version: '2026.06'
+date-released: '2026-06-24'
+identifiers:
+- type: url
+  value: https://orcid.org/0009-0005-5975-8718
+  description: ORCID iD of Richard J. Reyes
+- type: url
+  value: https://github.com/rickyjreyes/geometry_of_resonance
+  description: Wave Confinement Theory research hub
 references:
 - type: article
   authors:
