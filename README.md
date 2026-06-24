@@ -7,7 +7,7 @@
 **Industrial automation, nonlinear wave dynamics, scientific computing, and experimental research**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rickyjreyes-181717?logo=github)](https://github.com/rickyjreyes)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5365--1885-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5365-1885)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5975--8718-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5975-8718)
 [![Email](https://img.shields.io/badge/Email-reyes.ricky30%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:reyes.ricky30@gmail.com)
 
 </div>
@@ -62,7 +62,7 @@ WCT is an evolving independent research framework, not an established physical t
 | **[geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)** | Main WCT research archive: equations, papers, simulations, experiments, spectral tests, and reading paths. |
 | **[photodiode](https://github.com/rickyjreyes/photodiode)** | Reproducible silicon-photodiode artifact package with raw waveform data, FFT analysis, prediction records, controls, and shuffle-null tests. |
 | **[LHC](https://github.com/rickyjreyes/LHC)** | Open-data analysis of structured residuals and log-spectral geometry in $B^0\rightarrow K^{*0}\mu^+\mu^-$ candidate spectra. |
-| **[NIST](https://github.com/rickyjreyes/NIST)** | Atomic-spectra analysis using public NIST data, harmonic mapping, spectral statistics, and reproducibility pipelines. |
+| **[NIST](https://github.com/rickyjreyes/NIST)** | Reproducible log-cosine line-density scan of public NIST Atomic Spectra Database transition-metal line lists. The canonical Fe II mode has $k_{\mathrm{best}}=31.3265$ across 120, 160, and 200 bins, with active-domain winding $n\approx10.7$ and 0/5000 Poisson-bootstrap exceedances per setting. NIST is the data provider only; no endorsement or validation is claimed. |
 | **[Wavelock](https://github.com/rickyjreyes/Wavelock)** | Experimental path-dependent commitments, one-time signatures, adversarial audits, and a prototype curvature-locked ledger. Not production cryptography. |
 
 ## Research method
@@ -105,7 +105,7 @@ I prioritize:
 Technical criticism, independent replication, mathematical audits, and experimental controls are welcome.
 
 - **Email:** [reyes.ricky30@gmail.com](mailto:reyes.ricky30@gmail.com)
-- **ORCID:** [0009-0007-5365-1885](https://orcid.org/0009-0007-5365-1885)
+- **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)
 - **Research code:** [github.com/rickyjreyes](https://github.com/rickyjreyes)
 
 > The fastest entry into the research program is the README and recommended reading order in **[geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)**.
