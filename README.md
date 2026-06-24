@@ -6,6 +6,7 @@
 
 **Industrial automation, nonlinear wave dynamics, scientific computing, and experimental research**
 
+[![Research Website](https://img.shields.io/badge/Research-Website-67D4FF)](https://rickyjreyes.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-rickyjreyes-181717?logo=github)](https://github.com/rickyjreyes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rickyjreyes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickyjreyes/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5975--8718-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5975-8718)
@@ -13,7 +14,11 @@
 
 </div>
 
-> **Richard J. Reyes** is a controls engineer and independent researcher in **industrial automation, nonlinear wave dynamics, scientific computing, and experimental analysis.** His research program develops **Wave Confinement Theory (WCT)** — a geometric framework in which mass, force, spectra, and effective spacetime geometry emerge from confined, resonant oscillatory fields — alongside open-data analysis, physical experiments, complexity theory, AI architecture, and resonance-based control. Full publication index with DOIs is below.
+> **Richard J. Reyes** is a controls engineer and independent researcher in **industrial automation, nonlinear wave dynamics, scientific computing, and experimental analysis.** His research program develops **Wave Confinement Theory (WCT)** — a geometric framework in which mass, force, spectra, and effective spacetime geometry emerge from confined, resonant oscillatory fields — alongside open-data analysis, physical experiments, complexity theory, AI architecture, and resonance-based control.
+
+- **[Research website](https://rickyjreyes.github.io/):** accessible summaries, publication discovery, research-status labels, and the complete searchable archive.
+- **[Technical research hub](https://github.com/rickyjreyes/geometry_of_resonance):** manuscripts, equations, simulations, experiments, code, and reading maps.
+- **[Zenodo releases](https://rickyjreyes.github.io/publications/):** permanent DOI records and downloadable publications.
 
 ---
 
@@ -23,6 +28,7 @@
 - [The research idea](#the-research-idea)
 - [Start here — reading paths](#start-here--reading-paths)
 - [Main research branches](#main-research-branches)
+- [Engineering and software](#engineering-and-software)
 - [Publications and Zenodo releases](#publications-and-zenodo-releases)
 - [How to cite](#how-to-cite)
 - [Background and contact](#background-and-contact)
@@ -37,6 +43,7 @@ He holds a **B.S. in Computer Science from San José State University** and work
 
 His independent research program centers on **Wave Confinement Theory (WCT)** and its extensions into mathematical physics, open-data analysis, experimental systems, computation, cryptography, AI architecture, and resonance-based control.
 
+- **Research website:** [rickyjreyes.github.io](https://rickyjreyes.github.io/)
 - **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)
 - **Research hub:** [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)
 - **22 publications** indexed on Zenodo (2025–2026), listed with DOIs [below](#publications-and-zenodo-releases).
@@ -91,9 +98,21 @@ The NIST project uses public NIST Atomic Spectra Database exports and reports a 
 
 WaveLock and CurvaChain are experimental research prototypes. They are not production cryptography and are presented with explicit security limitations and unresolved proof obligations.
 
+## Engineering and software
+
+- Industrial automation, PLC control logic, instrumentation, sequencing, alarming, HMIs, commissioning, and troubleshooting
+- Industrial refrigeration and process-control systems
+- Scientific computing, numerical simulation, signal analysis, and reproducible data workflows
+- Python, R, C/C++, JavaScript, React, Docker, and Git
+
 ## Publications and Zenodo releases
 
 Twenty-two open-access publications (2025–2026), each with a permanent Zenodo DOI. Author: Richard J. Reyes ([ORCID 0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)). A machine-readable index of every entry below is provided in [`CITATION.cff`](CITATION.cff).
+
+Browse the complete searchable and filterable **[publication archive](https://rickyjreyes.github.io/publications/)**.
+
+<details>
+<summary><strong>Open the complete categorized publication list</strong></summary>
 
 ### Primary WCT foundations
 
@@ -132,9 +151,11 @@ Twenty-two open-access publications (2025–2026), each with a permanent Zenodo 
 21. **[Log-Spectral Structure and Koide-Like Winding Geometry in Open-Data B⁰ → K\*⁰ μ⁺μ⁻ Candidate Spectra](https://zenodo.org/records/20164333)** — May 9, 2026. DOI: [`10.5281/zenodo.20164333`](https://doi.org/10.5281/zenodo.20164333)
 22. **[Bin-Stable Log-Periodic Structure in Public NIST Atomic Line List](https://zenodo.org/records/20435463)** — May 28, 2026. DOI: [`10.5281/zenodo.20435463`](https://doi.org/10.5281/zenodo.20435463)
 
+</details>
+
 ## How to cite
 
-Please cite the specific publication you used by its Zenodo DOI. A complete machine-readable index of this profile and every publication is maintained in [`CITATION.cff`](CITATION.cff), which GitHub, Zenodo, and reference managers parse automatically (the **“Cite this repository”** button appears on the repository page).
+Please cite the specific publication you used by its Zenodo DOI. A complete machine-readable index of this profile and every publication is maintained in [`CITATION.cff`](CITATION.cff), which GitHub uses to provide repository citation information.
 
 ```bibtex
 @misc{reyes_geometry_of_resonance_2025,
@@ -148,13 +169,16 @@ Please cite the specific publication you used by its Zenodo DOI. A complete mach
 }
 ```
 
+Technical criticism, mathematical audit, reproducibility review, and independent replication are welcome; open an issue in the relevant repository or contact me directly.
+
 ## Background and contact
 
 - **Education:** B.S. Computer Science, San José State University
 - **Profession:** Controls Engineer, industrial refrigeration and process automation
 - **Research:** Independent mathematical physics and scientific computation
+- **Website:** [rickyjreyes.github.io](https://rickyjreyes.github.io/)
 - **LinkedIn:** [linkedin.com/in/rickyjreyes](https://www.linkedin.com/in/rickyjreyes/)
 - **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)
 - **Email:** [reyes.ricky30@gmail.com](mailto:reyes.ricky30@gmail.com)
 
-> For new readers, begin with the **[geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)** repository and follow its recommended reading order.
+> For new readers, begin with the **[research website](https://rickyjreyes.github.io/)** for accessible summaries, then continue to the **[geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)** repository for the technical archive.
