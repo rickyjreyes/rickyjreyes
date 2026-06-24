@@ -1,0 +1,264 @@
+cff-version: 1.2.0
+message: Please cite the specific Richard J. Reyes publication used. The complete Zenodo publication list is provided in the references below.
+title: Richard J. Reyes Research Profile and Publication Index
+type: dataset
+authors:
+- family-names: Reyes
+  given-names: Richard J.
+  orcid: https://orcid.org/0009-0005-5975-8718
+abstract: A machine-readable index of the research publications, repositories, and public scholarly record of Richard J. Reyes, including work on Wave Confinement Theory, scientific computing, experiments, complexity, artificial intelligence, cryptography, atomic spectra, and collider open-data analysis.
+keywords:
+- Richard J. Reyes
+- Wave Confinement Theory
+- nonlinear wave dynamics
+- mathematical physics
+- scientific computing
+- resonance confinement
+- open science
+repository-code: https://github.com/rickyjreyes/rickyjreyes
+url: https://github.com/rickyjreyes
+references:
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'The Geometry of Resonance: Wave Confinement Theory and the Emergence of Mass, Force, and Spacetime'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.15644222
+  url: https://doi.org/10.5281/zenodo.15644222
+  date-published: '2025-04-22'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Structure and Derivation of Physical Constants through Wave Confinement
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.15596159
+  url: https://doi.org/10.5281/zenodo.15596159
+  date-published: '2025-04-26'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'P vs NP in Curvature-Bounded Wave Computation: A Model-Relative P_WCC ≠ NP_WCC Separation'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17743607
+  url: https://doi.org/10.5281/zenodo.17743607
+  date-published: '2025-05-07'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Observation of Long-Lived Photon Resonance Confinement in Water Cavities
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17206381
+  url: https://doi.org/10.5281/zenodo.17206381
+  date-published: '2025-05-17'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Resonance-Confinement Architecture: A Physically Bounded Substrate for Safe Superintelligence'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17732661
+  url: https://doi.org/10.5281/zenodo.17732661
+  date-published: '2025-06-11'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Hard Upper Bound on Spatial Dimensionality in Wave Confinement Theory
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17081283
+  url: https://doi.org/10.5281/zenodo.17081283
+  date-published: '2025-08-13'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Phase-Flux Field (PFF): Axiomatic Substrate for Wave Confinement Theory Zero-Wave Invariance, Finite-k Lyapunov Band-Pass, Shell Quantization, and D4 to Continuum'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17578766
+  url: https://doi.org/10.5281/zenodo.17578766
+  date-published: '2025-09-08'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Self-Emergent Fourier Cymatics: Entropic Eigenmodes out of Chaos'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17732648
+  url: https://doi.org/10.5281/zenodo.17732648
+  date-published: '2025-09-16'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Emergence of Effective Mass: Solenoidal Topology of Vibrational Energy'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17459463
+  url: https://doi.org/10.5281/zenodo.17459463
+  date-published: '2025-10-27'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Rest Energy from Density-Weighted Loop Curvature: A Covariant Locking Principle'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.20533537
+  url: https://doi.org/10.5281/zenodo.20533537
+  date-published: '2025-11-11'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: JUNO Energy Resolution and Detectability of WCT Ghost-Mode Neutrinos
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17715872
+  url: https://doi.org/10.5281/zenodo.17715872
+  date-published: '2025-11-20'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Discrete Wave-Constrained Computation and Classical Complexity: Turing Equivalence for 𝐏 and 𝐍𝐏'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17732642
+  url: https://doi.org/10.5281/zenodo.17732642
+  date-published: '2025-11-26'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: The Classical P vs NP Problem is Mathematically and Physically Ill-Posed
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17783074
+  url: https://doi.org/10.5281/zenodo.17783074
+  date-published: '2025-12-01'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Wave Confinement Theory Predicts the Koide Mass Relation: A Curvature–Harmonic Origin of Fermion Mass Triplets'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17887562
+  url: https://doi.org/10.5281/zenodo.17887562
+  date-published: '2025-12-10'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Prediction & Protocol Ledger: Long-Lived Harmonic State Induction in Photodiodes'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.17957713
+  url: https://doi.org/10.5281/zenodo.17957713
+  year: 2025
+  month: 12
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Logarithmic Curvature Flow, Filament Localization, and the Geometric Origin of the Lepton Mass Spectrum
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.18936949
+  url: https://doi.org/10.5281/zenodo.18936949
+  date-published: '2026-03-10'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Nuclear Fusion Tokamak with Self Sustaining Resonance
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.19578185
+  url: https://doi.org/10.5281/zenodo.19578185
+  date-published: '2026-04-14'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'A Curvature-Induced Log-Periodic Deformation of C9(q²): Wave Confinement Theory and the LHCb B⁰ → K*⁰ μ⁺μ⁻ Anomaly'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.19705254
+  url: https://doi.org/10.5281/zenodo.19705254
+  date-published: '2026-04-23'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Log-Spectral Structure and Koide-Like Winding Geometry in Open-Data B⁰ → K*⁰ μ⁺μ⁻ Candidate Spectra
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.20164333
+  url: https://doi.org/10.5281/zenodo.20164333
+  date-published: '2026-05-09'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Recursive AI Drift: A 2025 Prediction Timeline External Validation Audit and Technical Note'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.20142976
+  url: https://doi.org/10.5281/zenodo.20142976
+  year: 2026
+  month: 5
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: Bin-Stable Log-Periodic Structure in Public NIST Atomic Line List
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.20435463
+  url: https://doi.org/10.5281/zenodo.20435463
+  date-published: '2026-05-28'
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'WaveLock: A Curvature-Locked One-Way Function Based on Nonlinear PDE Evolution'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.19122146
+  url: https://doi.org/10.5281/zenodo.19122146
+  date-published: '2025-12-01'
