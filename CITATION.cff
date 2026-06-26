@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: Please cite the specific Richard J. Reyes publication used. The complete Zenodo publication list is provided in the references below.
 title: Richard J. Reyes Research Profile and Publication Index
-type: dataset
+type: generic
 authors:
 - family-names: Reyes
   given-names: Richard J.
@@ -18,7 +18,7 @@ keywords:
 repository-code: https://github.com/rickyjreyes/rickyjreyes
 url: https://github.com/rickyjreyes
 version: '2026.06'
-date-released: '2026-06-24'
+date-released: '2026-06-26'
 identifiers:
 - type: url
   value: https://orcid.org/0009-0005-5975-8718
@@ -153,7 +153,7 @@ references:
   - family-names: Reyes
     given-names: Richard J.
     orcid: https://orcid.org/0009-0005-5975-8718
-  title: 'Discrete Wave-Constrained Computation and Classical Complexity: Turing Equivalence for 𝐏 and 𝐍𝐏'
+  title: 'Discrete Wave-Constrained Computation and Classical Complexity: Turing Equivalence for P and NP'
   publisher:
     name: Zenodo
   doi: 10.5281/zenodo.17732642
