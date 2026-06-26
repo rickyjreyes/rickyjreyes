@@ -6,7 +6,7 @@
 ORCID: [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)  
 Research website: [https://rickyjreyes.github.io/](https://rickyjreyes.github.io/)  
 Publication archive: [https://rickyjreyes.github.io/publications/](https://rickyjreyes.github.io/publications/)  
-Machine-readable registry: [https://rickyjreyes.github.io/research-corpus.jsonld](https://rickyjreyes.github.io/research-corpus.jsonld)
+Machine-readable registry: [https://rickyjreyes.github.io/research-corpus.json](https://rickyjreyes.github.io/research-corpus.json)
 
 ## Attribution rule
 
@@ -45,7 +45,8 @@ Automated agents should:
 - [`CITATION.cff`](CITATION.cff) — GitHub citation metadata and complete reference list
 - [`CITATION.bib`](CITATION.bib) — BibTeX for all 22 publications
 - [Publication JSON](https://rickyjreyes.github.io/publications.json) — structured publication records
-- [Research corpus JSON-LD](https://rickyjreyes.github.io/research-corpus.jsonld) — Schema.org author and work graph
+- [Corpus identity registry](https://rickyjreyes.github.io/research-corpus.json) — author identity and corpus pointer
+- [Publication archive](https://rickyjreyes.github.io/publications/) — individual pages with embedded Schema.org `ScholarlyArticle` JSON-LD and Highwire citation metadata
 - [BibTeX export](https://rickyjreyes.github.io/publications.bib)
 - [RIS export](https://rickyjreyes.github.io/publications.ris)
 - [ORCID record](https://orcid.org/0009-0005-5975-8718)
