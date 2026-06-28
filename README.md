@@ -22,8 +22,27 @@
 
 ---
 
+## Reproduce WCT-2026.1
+
+The maintained WCT research stack has a frozen, CI-verified release that pins the exact canonical-equation, SymPy, Lean, simulation, and published-registry source commits.
+
+[![Run guide](https://img.shields.io/badge/Run-WCT--2026.1-67D4FF?style=for-the-badge)](https://rickyjreyes.github.io/reproduce/)
+[![Frozen manifest](https://img.shields.io/badge/Manifest-JSON-64E19D?style=for-the-badge)](https://rickyjreyes.github.io/release/WCT-2026.1/release-manifest.json)
+[![Release CI](https://img.shields.io/badge/CI-Lean%20%7C%20SymPy%20%7C%20Docker%20%7C%20Nix-9B8CFF?style=for-the-badge)](https://github.com/rickyjreyes/rickyjreyes.github.io/actions/workflows/frozen-release.yml)
+
+```bash
+git clone https://github.com/rickyjreyes/rickyjreyes.github.io.git
+cd rickyjreyes.github.io
+make reproduce
+```
+
+This rebuilds and verifies the 142-object registry, full SymPy audit, Lean formal layer, deterministic finite-band simulation, regenerated figure, source hashes, expected artifact hashes, Docker environment, and Nix environment. A successful run establishes release reproducibility, not physical validation or independent replication.
+
+---
+
 ## Contents
 
+- [Reproduce WCT-2026.1](#reproduce-wct-20261)
 - [About](#about)
 - [The research idea](#the-research-idea)
 - [Start here — reading paths](#start-here--reading-paths)
