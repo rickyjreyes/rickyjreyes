@@ -22,12 +22,12 @@
 
 ---
 
-## Reproduce WCT-2026.1
+## Reproduce WCT-2026.2
 
 The maintained WCT research stack has a frozen, CI-verified release that pins the exact canonical-equation, SymPy, Lean, simulation, and published-registry source commits.
 
-[![Run guide](https://img.shields.io/badge/Run-WCT--2026.1-67D4FF?style=for-the-badge)](https://rickyjreyes.github.io/reproduce/)
-[![Frozen manifest](https://img.shields.io/badge/Manifest-JSON-64E19D?style=for-the-badge)](https://rickyjreyes.github.io/release/WCT-2026.1/release-manifest.json)
+[![Run guide](https://img.shields.io/badge/Run-WCT--2026.2-67D4FF?style=for-the-badge)](https://rickyjreyes.github.io/reproduce/)
+[![Frozen manifest](https://img.shields.io/badge/Manifest-JSON-64E19D?style=for-the-badge)](https://rickyjreyes.github.io/release/WCT-2026.2/release-manifest.json)
 [![Release CI](https://img.shields.io/badge/CI-Lean%20%7C%20SymPy%20%7C%20Docker%20%7C%20Nix-9B8CFF?style=for-the-badge)](https://github.com/rickyjreyes/rickyjreyes.github.io/actions/workflows/frozen-release.yml)
 
 ```bash
@@ -42,7 +42,7 @@ This rebuilds and verifies the 142-object registry, full SymPy audit, Lean forma
 
 ## Contents
 
-- [Reproduce WCT-2026.1](#reproduce-wct-20261)
+- [Reproduce WCT-2026.2](#reproduce-wct-20262)
 - [About](#about)
 - [The research idea](#the-research-idea)
 - [Start here — reading paths](#start-here--reading-paths)
@@ -108,10 +108,14 @@ The main entry point is the **[Geometry of Resonance / Wave Confinement Theory R
 | Branch | Entry point |
 |---|---|
 | **Core WCT theory** | [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance) |
+| **Executable symbolic audit** | [wct-sympy](https://github.com/rickyjreyes/wct-sympy) |
+| **Lean formalization** | [wct-lean](https://github.com/rickyjreyes/wct-lean) |
 | **Photodiode experiment and signal analysis** | [photodiode](https://github.com/rickyjreyes/photodiode) |
 | **Atomic spectra / Fe II log-cosine scan** | [NIST](https://github.com/rickyjreyes/NIST) |
 | **LHCb open-data spectral analysis** | [LHC](https://github.com/rickyjreyes/LHC) |
 | **WaveLock and CurvaChain research** | [Wavelock](https://github.com/rickyjreyes/Wavelock) |
+
+The maintained software, symbolic-audit, and formalization repositories use GitHub Actions, with Docker-based reproduction paths where appropriate, so core checks can be rerun in isolated environments.
 
 The NIST project uses public NIST Atomic Spectra Database exports and reports a bin-stable Fe II log-cosine line-density mode across 120, 160, and 200 bins. NIST is the data provider only; no NIST endorsement, certification, or validation is claimed.
 
@@ -122,7 +126,7 @@ WaveLock and CurvaChain are experimental research prototypes. They are not produ
 - Industrial automation, PLC control logic, instrumentation, sequencing, alarming, HMIs, commissioning, and troubleshooting
 - Industrial refrigeration and process-control systems
 - Scientific computing, numerical simulation, signal analysis, and reproducible data workflows
-- Python, R, C/C++, JavaScript, React, Docker, and Git
+- Python, R, C/C++, JavaScript, React, Docker, GitHub Actions, and Git
 
 ## Publications and Zenodo releases
 
