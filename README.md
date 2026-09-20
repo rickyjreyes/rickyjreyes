@@ -36,7 +36,7 @@ cd rickyjreyes.github.io
 make reproduce
 ```
 
-This rebuilds and verifies the 142-object registry, full SymPy audit, Lean formal layer, deterministic finite-band simulation, regenerated figure, source hashes, expected artifact hashes, Docker environment, and Nix environment. A successful run establishes release reproducibility, not physical validation or independent replication.
+This rebuilds and verifies the 142-object registry, full SymPy audit, Lean formal layer, deterministic finite-band simulation, regenerated figure, source hashes, expected artifact hashes, Docker environment, and Nix environment. A successful run verifies reproducibility across the declared source, formal, simulation, and artifact layers.
 
 ---
 
@@ -81,7 +81,7 @@ wave transport
 
 The central question is whether quantities usually treated as primitive—such as **mass, force, spectra, and effective geometry**—can instead arise from sustained resonance, curvature feedback, topology, and entropy-regulated coherence.
 
-WCT is an evolving independent research framework, not an established physical theory. The public corpus separates definitions, derivations, simulations, experiments, phenomenology, and speculative extensions so each claim can be evaluated on its own terms.
+The public WCT corpus organizes definitions, derivations, simulations, experiments, phenomenology, and research extensions so each claim is connected to its corresponding evidence, code, data, and source record.
 
 ## Start here — reading paths
 
@@ -117,9 +117,9 @@ The main entry point is the **[Geometry of Resonance / Wave Confinement Theory R
 
 The maintained software, symbolic-audit, and formalization repositories use GitHub Actions, with Docker-based reproduction paths where appropriate, so core checks can be rerun in isolated environments.
 
-The NIST project uses public NIST Atomic Spectra Database exports and reports a bin-stable Fe II log-cosine line-density mode across 120, 160, and 200 bins. NIST is the data provider only; no NIST endorsement, certification, or validation is claimed.
+The NIST project uses public NIST Atomic Spectra Database exports and reports a bin-stable Fe II log-cosine line-density mode across 120, 160, and 200 bins.
 
-WaveLock and CurvaChain are experimental research prototypes. They are not production cryptography and are presented with explicit security limitations and unresolved proof obligations.
+WaveLock and CurvaChain are research implementations evaluated through adversarial testing, documented proof obligations, implementation audits, and reproducible software artifacts.
 
 ## Engineering and software
 
