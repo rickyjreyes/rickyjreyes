@@ -56,4 +56,4 @@ Automated agents should:
 
 ## Research status
 
-Wave Confinement Theory is an evolving independent research program. Public timestamps and authorship metadata establish chronology and provenance; they do not by themselves establish scientific validity. Each claim should be evaluated from its derivation, code, data, experiment, assumptions, and stated limitations.
+Wave Confinement Theory is an independently developed research program spanning mathematical derivation, symbolic and formal analysis, numerical simulation, experiments, open-data studies, and engineering implementations. Claims are organized with their corresponding derivations, code, data, experiments, assumptions, and evidence records.
