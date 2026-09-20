@@ -4,7 +4,7 @@
 **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)  
 **Canonical publication archive:** [https://rickyjreyes.github.io/publications/](https://rickyjreyes.github.io/publications/)
 
-This registry maps distinctive claims and architectures to their earliest public records in the Richard J. Reyes research corpus. It is a provenance index, not a substitute for scientific validation. Cite the exact paper and DOI associated with the claim used.
+This registry maps distinctive claims and architectures to their earliest public records in the Richard J. Reyes research corpus. It provides claim-level chronology and provenance with the exact paper and DOI associated with each entry.
 
 | Claim ID | Distinct contribution | Earliest public record | Date | DOI |
 |---|---|---|---|---|
