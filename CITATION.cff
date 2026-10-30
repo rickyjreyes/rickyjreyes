@@ -17,8 +17,8 @@ keywords:
 - open science
 repository-code: https://github.com/rickyjreyes/rickyjreyes
 url: https://github.com/rickyjreyes
-version: '2026.06'
-date-released: '2026-06-26'
+version: '2026.10'
+date-released: '2026-10-29'
 identifiers:
 - type: url
   value: https://orcid.org/0009-0005-5975-8718
@@ -271,3 +271,75 @@ references:
   doi: 10.5281/zenodo.19122146
   url: https://doi.org/10.5281/zenodo.19122146
   date-published: '2025-12-01'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Log-Periodic Structure in the GWTC Chirp-Mass Distribution: Frozen Holdout Evidence and a Prospective Prediction'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22256802
+  url: https://doi.org/10.5281/zenodo.22256802
+  date-published: '2026-08-26'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Log-Periodic Dimuon Residual in CMS Open Data: Cross-Period Replication and a Prospective Phase-Locked Holdout'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22257067
+  url: https://doi.org/10.5281/zenodo.22257067
+  date-published: '2026-08-31'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Exact Scale-Winding Bijection Between Discrete Scale Invariance and WCT Active-Domain Phase Closure'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22665914
+  url: https://doi.org/10.5281/zenodo.22665914
+  date-published: '2026-09-08'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Filament Reduction and Phase Quantization of Curvature-Locked Modes'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22666758
+  url: https://doi.org/10.5281/zenodo.22666758
+  date-published: '2026-09-08'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'Geometric Turbulence in Wave Confinement Theory: Phase-Locked Curvature Filaments and the Soliton-Gas Regime'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22666935
+  url: https://doi.org/10.5281/zenodo.22666935
+  date-published: '2026-09-08'
+
+- type: article
+  authors:
+  - family-names: Reyes
+    given-names: Richard J.
+    orcid: https://orcid.org/0009-0005-5975-8718
+  title: 'From Wave Confinement to Recursive AI Instability: A Propagation-Correction Criticality Law and Successful Prospective Prediction'
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.22757003
+  url: https://doi.org/10.5281/zenodo.22757003
+  date-published: '2026-09-14'
