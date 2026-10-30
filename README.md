@@ -86,7 +86,7 @@ His research includes **independent mathematical analysis and Lean 4 formal veri
 - **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)
 - **Mathematics and formal proofs:** [math](https://github.com/rickyjreyes/math)
 - **WCT research hub:** [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)
-- **Zenodo DOI collection:** [22 curated records below](#publications-and-zenodo-releases); check the [live publication archive](https://rickyjreyes.github.io/publications/) for the broader catalogue.
+- **Zenodo DOI collection:** [28 DOI records below](#publications-and-zenodo-releases); check the [live publication archive](https://rickyjreyes.github.io/publications/) for the broader catalogue.
 
 ## The research idea
 
@@ -155,55 +155,61 @@ WaveLock and CurvaChain are research implementations evaluated through adversari
 
 ## Publications and Zenodo releases
 
-This page preserves a **curated 22-record Zenodo DOI list (2025–2026)**. For newer manuscripts, revisions, and the live catalogue, use the [publication archive](https://rickyjreyes.github.io/publications/) and [mathematics repository](https://github.com/rickyjreyes/math). Author: Richard J. Reyes ([ORCID 0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)). A machine-readable index of every entry below is provided in [`CITATION.cff`](CITATION.cff).
+**28 DOI-indexed publications (2025–2026)**, matching the [live publication archive](https://rickyjreyes.github.io/publications/) and its [machine-readable registry](https://rickyjreyes.github.io/publications.json) as of October 29, 2026. Author: Richard J. Reyes ([ORCID 0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)).
 
-Browse the complete searchable and filterable **[publication archive](https://rickyjreyes.github.io/publications/)**.
+The titles, original release dates, and DOI links below are taken from the public registry. Month-only entries retain their published month precision. Separate mathematical manuscripts and Lean proof artifacts can be found in the [mathematics repository](https://github.com/rickyjreyes/math).
 
 <details>
-<summary><strong>Open the curated 22-record DOI list</strong></summary>
+<summary><strong>Open the complete 28-record DOI list</strong></summary>
 
 ### Primary WCT foundations
 
-1. **[The Geometry of Resonance: Wave Confinement Theory and the Emergence of Mass, Force, and Spacetime](https://zenodo.org/records/15644222)** — Apr. 22, 2025. DOI: [`10.5281/zenodo.15644222`](https://doi.org/10.5281/zenodo.15644222)
-2. **[Structure and Derivation of Physical Constants through Wave Confinement](https://zenodo.org/records/15596159)** — Apr. 26, 2025. DOI: [`10.5281/zenodo.15596159`](https://doi.org/10.5281/zenodo.15596159)
-3. **[Phase-Flux Field (PFF): Axiomatic Substrate for Wave Confinement Theory](https://zenodo.org/records/17578766)** — Sep. 8, 2025. DOI: [`10.5281/zenodo.17578766`](https://doi.org/10.5281/zenodo.17578766)
+1. [**The Geometry of Resonance: Wave Confinement Theory and the Emergence of Mass, Force, and Spacetime**](https://zenodo.org/records/15644222) — Apr. 22, 2025. DOI: [`10.5281/zenodo.15644222`](https://doi.org/10.5281/zenodo.15644222)
+2. [**Structure and Derivation of Physical Constants through Wave Confinement**](https://zenodo.org/records/15596159) — Apr. 26, 2025. DOI: [`10.5281/zenodo.15596159`](https://doi.org/10.5281/zenodo.15596159)
+3. [**Phase-Flux Field (PFF): Axiomatic Substrate for Wave Confinement Theory — Zero-Wave Invariance, Finite-k Lyapunov Band-Pass, Shell Quantization, and D4 to Continuum**](https://zenodo.org/records/17578766) — Sep. 8, 2025. DOI: [`10.5281/zenodo.17578766`](https://doi.org/10.5281/zenodo.17578766)
+4. [**Exact Scale-Winding Bijection Between Discrete Scale Invariance and WCT Active-Domain Phase Closure**](https://zenodo.org/records/22665914) — Sep. 8, 2026. DOI: [`10.5281/zenodo.22665914`](https://doi.org/10.5281/zenodo.22665914)
 
 ### Mass, geometry, dimensionality, and spectral dynamics
 
-4. **[Hard Upper Bound on Spatial Dimensionality in Wave Confinement Theory](https://zenodo.org/records/17081283)** — Aug. 13, 2025. DOI: [`10.5281/zenodo.17081283`](https://doi.org/10.5281/zenodo.17081283)
-5. **[Self-Emergent Fourier Cymatics: Entropic Eigenmodes out of Chaos](https://zenodo.org/records/17732648)** — Sep. 16, 2025. DOI: [`10.5281/zenodo.17732648`](https://doi.org/10.5281/zenodo.17732648)
-6. **[Emergence of Effective Mass: Solenoidal Topology of Vibrational Energy](https://zenodo.org/records/17459463)** — Oct. 27, 2025. DOI: [`10.5281/zenodo.17459463`](https://doi.org/10.5281/zenodo.17459463)
-7. **[Rest Energy from Density-Weighted Loop Curvature: A Covariant Locking Principle](https://zenodo.org/records/20533537)** — Nov. 11, 2025. DOI: [`10.5281/zenodo.20533537`](https://doi.org/10.5281/zenodo.20533537)
-8. **[Wave Confinement Theory Predicts the Koide Mass Relation](https://zenodo.org/records/17887562)** — Dec. 10, 2025. DOI: [`10.5281/zenodo.17887562`](https://doi.org/10.5281/zenodo.17887562)
-9. **[Logarithmic Curvature Flow, Filament Localization, and the Geometric Origin of the Lepton Mass Spectrum](https://zenodo.org/records/18936949)** — Mar. 10, 2026. DOI: [`10.5281/zenodo.18936949`](https://doi.org/10.5281/zenodo.18936949)
+5. [**Hard Upper Bound on Spatial Dimensionality in Wave Confinement Theory**](https://zenodo.org/records/17081283) — Aug. 13, 2025. DOI: [`10.5281/zenodo.17081283`](https://doi.org/10.5281/zenodo.17081283)
+6. [**Self-Emergent Fourier Cymatics: Entropic Eigenmodes out of Chaos**](https://zenodo.org/records/17732648) — Sep. 16, 2025. DOI: [`10.5281/zenodo.17732648`](https://doi.org/10.5281/zenodo.17732648)
+7. [**Emergence of Effective Mass: Solenoidal Topology of Vibrational Energy**](https://zenodo.org/records/17459463) — Oct. 27, 2025. DOI: [`10.5281/zenodo.17459463`](https://doi.org/10.5281/zenodo.17459463)
+8. [**Rest Energy from Density-Weighted Loop Curvature: A Covariant Locking Principle**](https://zenodo.org/records/20533537) — Nov. 11, 2025. DOI: [`10.5281/zenodo.20533537`](https://doi.org/10.5281/zenodo.20533537)
+9. [**Wave Confinement Theory Predicts the Koide Mass Relation: A Curvature–Harmonic Origin of Fermion Mass Triplets**](https://zenodo.org/records/17887562) — Dec. 10, 2025. DOI: [`10.5281/zenodo.17887562`](https://doi.org/10.5281/zenodo.17887562)
+10. [**Logarithmic Curvature Flow, Filament Localization, and the Geometric Origin of the Lepton Mass Spectrum**](https://zenodo.org/records/18936949) — Mar. 10, 2026. DOI: [`10.5281/zenodo.18936949`](https://doi.org/10.5281/zenodo.18936949)
+11. [**Filament Reduction and Phase Quantization of Curvature-Locked Modes**](https://zenodo.org/records/22666758) — Sep. 8, 2026. DOI: [`10.5281/zenodo.22666758`](https://doi.org/10.5281/zenodo.22666758)
+12. [**Geometric Turbulence in Wave Confinement Theory: Phase-Locked Curvature Filaments and the Soliton-Gas Regime**](https://zenodo.org/records/22666935) — Sep. 8, 2026. DOI: [`10.5281/zenodo.22666935`](https://doi.org/10.5281/zenodo.22666935)
 
 ### Computation, complexity, AI, and cryptography
 
-10. **[P vs NP in Curvature-Bounded Wave Computation](https://zenodo.org/records/17743607)** — May 7, 2025. DOI: [`10.5281/zenodo.17743607`](https://doi.org/10.5281/zenodo.17743607)
-11. **[Resonance-Confinement Architecture: A Physically Bounded Substrate for Safe Superintelligence](https://zenodo.org/records/17732661)** — Jun. 11, 2025. DOI: [`10.5281/zenodo.17732661`](https://doi.org/10.5281/zenodo.17732661)
-12. **[Discrete Wave-Constrained Computation and Classical Complexity](https://zenodo.org/records/17732642)** — Nov. 26, 2025. DOI: [`10.5281/zenodo.17732642`](https://doi.org/10.5281/zenodo.17732642)
-13. **[The Classical P vs NP Problem Is Mathematically and Physically Ill-Posed](https://zenodo.org/records/17783074)** — Dec. 1, 2025. DOI: [`10.5281/zenodo.17783074`](https://doi.org/10.5281/zenodo.17783074)
-14. **[Recursive AI Drift: A 2025 Prediction Timeline External Validation Audit and Technical Note](https://zenodo.org/records/20142976)** — May 2026. DOI: [`10.5281/zenodo.20142976`](https://doi.org/10.5281/zenodo.20142976)
-15. **[WaveLock: A Curvature-Locked One-Way Function Based on Nonlinear PDE Evolution](https://zenodo.org/records/19122146)** — Dec. 1, 2025. DOI: [`10.5281/zenodo.19122146`](https://doi.org/10.5281/zenodo.19122146)
+13. [**Part I — P vs NP in Curvature-Bounded Wave Computation: A Model-Relative Pᴡᴄᴄ ≠ NPᴡᴄᴄ Separation**](https://zenodo.org/records/17743607) — May 7, 2025. DOI: [`10.5281/zenodo.17743607`](https://doi.org/10.5281/zenodo.17743607)
+14. [**Resonance-Confinement Architecture: A Physically Bounded Substrate for Safe Superintelligence**](https://zenodo.org/records/17732661) — Jun. 11, 2025. DOI: [`10.5281/zenodo.17732661`](https://doi.org/10.5281/zenodo.17732661)
+15. [**Part II — Discrete Wave-Constrained Computation and Classical Complexity: Turing Equivalence for P and NP**](https://zenodo.org/records/17732642) — Nov. 26, 2025. DOI: [`10.5281/zenodo.17732642`](https://doi.org/10.5281/zenodo.17732642)
+16. [**Part III — The Classical P vs NP Problem Is Mathematically and Physically Ill-Posed**](https://zenodo.org/records/17783074) — Dec. 1, 2025. DOI: [`10.5281/zenodo.17783074`](https://doi.org/10.5281/zenodo.17783074)
+17. [**WaveLock: A Curvature-Locked One-Way Function Based on Nonlinear PDE Evolution**](https://zenodo.org/records/19122146) — Dec. 1, 2025. DOI: [`10.5281/zenodo.19122146`](https://doi.org/10.5281/zenodo.19122146)
+18. [**Recursive AI Drift: A 2025 Prediction Timeline External Validation Audit and Technical Note**](https://zenodo.org/records/20142976) — May 2026. DOI: [`10.5281/zenodo.20142976`](https://doi.org/10.5281/zenodo.20142976)
+19. [**From Wave Confinement to Recursive AI Instability: A Propagation-Correction Criticality Law and Successful Prospective Prediction**](https://zenodo.org/records/22757003) — Sep. 14, 2026. DOI: [`10.5281/zenodo.22757003`](https://doi.org/10.5281/zenodo.22757003)
 
 ### Experiment, protocol, and physical systems
 
-16. **[Observation of Long-Lived Photon Resonance Confinement in Water Cavities](https://zenodo.org/records/17206381)** — May 17, 2025. DOI: [`10.5281/zenodo.17206381`](https://doi.org/10.5281/zenodo.17206381)
-17. **[JUNO Energy Resolution and Detectability of WCT Ghost-Mode Neutrinos](https://zenodo.org/records/17715872)** — Nov. 20, 2025. DOI: [`10.5281/zenodo.17715872`](https://doi.org/10.5281/zenodo.17715872)
-18. **[Prediction & Protocol Ledger: Long-Lived Harmonic State Induction in Photodiodes](https://zenodo.org/records/17957713)** — Dec. 2025. DOI: [`10.5281/zenodo.17957713`](https://doi.org/10.5281/zenodo.17957713)
-19. **[Nuclear Fusion Tokamak with Self Sustaining Resonance](https://zenodo.org/records/19578185)** — Apr. 14, 2026. DOI: [`10.5281/zenodo.19578185`](https://doi.org/10.5281/zenodo.19578185)
+20. [**Observation of Long-Lived Photon Resonance Confinement in Water Cavities**](https://zenodo.org/records/17206381) — May 17, 2025. DOI: [`10.5281/zenodo.17206381`](https://doi.org/10.5281/zenodo.17206381)
+21. [**JUNO Energy Resolution and Detectability of WCT Ghost-Mode Neutrinos**](https://zenodo.org/records/17715872) — Nov. 20, 2025. DOI: [`10.5281/zenodo.17715872`](https://doi.org/10.5281/zenodo.17715872)
+22. [**Prediction & Protocol Ledger: Long-Lived Harmonic State Induction in Photodiodes**](https://zenodo.org/records/17957713) — Dec. 2025. DOI: [`10.5281/zenodo.17957713`](https://doi.org/10.5281/zenodo.17957713)
+23. [**Nuclear Fusion Tokamak with Self Sustaining Resonance**](https://zenodo.org/records/19578185) — Apr. 14, 2026. DOI: [`10.5281/zenodo.19578185`](https://doi.org/10.5281/zenodo.19578185)
 
-### Collider, atomic-line, and open-data phenomenology
+### Collider, gravitational-wave, atomic-line, and open-data phenomenology
 
-20. **[A Curvature-Induced Log-Periodic Deformation of C9(q²)](https://zenodo.org/records/19705254)** — Apr. 23, 2026. DOI: [`10.5281/zenodo.19705254`](https://doi.org/10.5281/zenodo.19705254)
-21. **[Log-Spectral Structure and Koide-Like Winding Geometry in Open-Data B⁰ → K\*⁰ μ⁺μ⁻ Candidate Spectra](https://zenodo.org/records/20164333)** — May 9, 2026. DOI: [`10.5281/zenodo.20164333`](https://doi.org/10.5281/zenodo.20164333)
-22. **[Bin-Stable Log-Periodic Structure in Public NIST Atomic Line List](https://zenodo.org/records/20435463)** — May 28, 2026. DOI: [`10.5281/zenodo.20435463`](https://doi.org/10.5281/zenodo.20435463)
+24. [**A Curvature-Induced Log-Periodic Deformation of C9(q²): Wave Confinement Theory and the LHCb B⁰ → K\*⁰ μ⁺μ⁻ Anomaly**](https://zenodo.org/records/19705254) — Apr. 23, 2026. DOI: [`10.5281/zenodo.19705254`](https://doi.org/10.5281/zenodo.19705254)
+25. [**Log-Spectral Structure and Koide-Like Winding Geometry in Open-Data B⁰ → K\*⁰ μ⁺μ⁻ Candidate Spectra**](https://zenodo.org/records/20164333) — May 9, 2026. DOI: [`10.5281/zenodo.20164333`](https://doi.org/10.5281/zenodo.20164333)
+26. [**Bin-Stable Log-Periodic Structure in Public NIST Atomic Line List**](https://zenodo.org/records/20435463) — May 28, 2026. DOI: [`10.5281/zenodo.20435463`](https://doi.org/10.5281/zenodo.20435463)
+27. [**Log-Periodic Structure in the GWTC Chirp-Mass Distribution: Frozen Holdout Evidence and a Prospective Prediction**](https://zenodo.org/records/22256802) — Aug. 26, 2026. DOI: [`10.5281/zenodo.22256802`](https://doi.org/10.5281/zenodo.22256802)
+28. [**Log-Periodic Dimuon Residual in CMS Open Data: Cross-Period Replication and a Prospective Phase-Locked Holdout**](https://zenodo.org/records/22257067) — Aug. 31, 2026. DOI: [`10.5281/zenodo.22257067`](https://doi.org/10.5281/zenodo.22257067)
 
 </details>
 
 ## How to cite
 
-Please cite the specific publication you used by its Zenodo DOI. The curated DOI records listed here are indexed in [`CITATION.cff`](CITATION.cff), which GitHub uses for repository citation information. For mathematical results without a corresponding Zenodo release, cite the specific manuscript, its hypotheses, and the relevant Git revision.
+Please cite the specific publication you used by its Zenodo DOI. All 28 DOI records listed here are indexed in [`CITATION.cff`](CITATION.cff), which GitHub uses for repository citation information. For mathematical results without a corresponding Zenodo release, cite the specific manuscript, its hypotheses, and the relevant Git revision.
 
 ```bibtex
 @misc{reyes_geometry_of_resonance_2025,
