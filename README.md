@@ -4,7 +4,7 @@
 
 ### Controls Engineer · Independent Researcher · Software Developer
 
-**Industrial automation, nonlinear wave dynamics, scientific computing, and experimental research**
+**Lean 4 formal mathematics · Nonlinear wave dynamics · Industrial controls · Scientific computing**
 
 [![Research Website](https://img.shields.io/badge/Research-Website-67D4FF)](https://rickyjreyes.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-rickyjreyes-181717?logo=github)](https://github.com/rickyjreyes)
@@ -14,11 +14,30 @@
 
 </div>
 
-> **Richard J. Reyes** is a controls engineer and independent researcher in **industrial automation, nonlinear wave dynamics, scientific computing, and experimental analysis.** His research program develops **Wave Confinement Theory (WCT)** — a geometric framework in which mass, force, spectra, and effective spacetime geometry emerge from confined, resonant oscillatory fields — alongside open-data analysis, physical experiments, complexity theory, AI architecture, and resonance-based control.
+> **Richard J. Reyes** is a controls engineer and independent researcher working on **nonlinear partial differential equations, Lean 4 formal verification, wave dynamics, scientific computing, and industrial automation.** His mathematical work investigates precise existence, stability, spectral and geometric questions through proofs, counterexamples, and reproducible formalization. In parallel, he develops **Wave Confinement Theory (WCT)** as a proposed physical framework for confined oscillatory fields, with separate experimental and computational tests.
 
 - **[Research website](https://rickyjreyes.github.io/):** accessible summaries, publication discovery, research-status labels, and the complete searchable archive.
-- **[Technical research hub](https://github.com/rickyjreyes/geometry_of_resonance):** manuscripts, equations, simulations, experiments, code, and reading maps.
+- **[Formal mathematics and manuscripts](https://github.com/rickyjreyes/math):** theorem statements, compiled papers, Lean 4 proofs, and counterexamples.
+- **[Technical WCT research hub](https://github.com/rickyjreyes/geometry_of_resonance):** manuscripts, equations, simulations, experiments, code, and reading maps.
+- **[Reyes Problem Repository](https://github.com/rickyjreyes/math/tree/main/reyes-problem-repository):** a 300-entry research agenda with explicit issue, proof, and review workflows.
 - **[Zenodo releases](https://rickyjreyes.github.io/publications/):** permanent DOI records and downloadable publications.
+
+---
+
+## Research highlights (October 2026)
+
+The current research portfolio has two complementary tracks: **scope-precise mathematics with reproducible proofs** and **WCT-inspired physical and computational hypotheses tested against data and experiments**. Start with the checked mathematical statements rather than treating a numerical experiment or a broader physical proposal as the same kind of evidence.
+
+| Research area | Current result or scope | Check the evidence |
+|---|---|---|
+| **Lean 4 mathematics** | **14/14 original mathematical manuscripts** marked complete at the repository's defined manuscript scope. The latest manifest reports **136 project modules** and **2,522 theorem/lemma source declarations**, including supporting and private lemmas. These are verification inventory counts, not 2,522 independent discoveries. | [Mathematics hub](https://github.com/rickyjreyes/math) · [Formalization manifest](https://github.com/rickyjreyes/math/blob/main/lean/formalization.yaml) · [Certification review](https://github.com/rickyjreyes/math/blob/main/docs/ANALYTIC_CERTIFICATION_2026-10-30.md) |
+| **Fourth-order nonlinear PDEs** | For an explicitly defined cubic–quintic Hamiltonian on H²(ℝ²; ℂ): strict binding, existence and compactness of constrained minimizers, global H² evolution, and orbital stability under stated coefficient and mass hypotheses. These mathematical results do not automatically establish the wider WCT physical model. | [Papers and formal proofs](https://github.com/rickyjreyes/math#selected-mathematical-results) |
+| **Frozen D4 binding** | The actual prescribed 2D whole-space mass admits strict binding at **every** nontrivial split, with the exact analytic bound **I₂(μ) + I₂(m − μ) − I₂(m) > min(μ, m − μ)/400000**. The quantitative certificate uses rational arithmetic; this particular certificate is not a separate Lean formalization. | [Merged proof review, PR #51](https://github.com/rickyjreyes/geometry_of_resonance/pull/51) · [Full derivation](https://github.com/rickyjreyes/geometry_of_resonance/blob/main/docs/d4_frozen_review/PROOF.md) |
+| **Geometric and inverse-problem obstructions** | Results include a rank-at-most-two obstruction for a specified scalar-gradient Gram tensor and a local non-identifiability result for a 31-parameter spectral observation model. Conclusions retain their exact hypotheses and are not universal no-go statements. | [F08 and F09 in the mathematics catalogue](https://github.com/rickyjreyes/math/blob/main/CONTENTS.md) |
+| **Reyes Problem Repository** | **300 proposed research entries:** 65 formally stated questions and 235 early-stage research sketches. Each can progress through issue → proof or counterexample → review → Lean and/or paper. The list is a research agenda, not 300 independently established unsolved problems. | [Browse the problem repository](https://github.com/rickyjreyes/math/tree/main/reyes-problem-repository) |
+| **WaveLock / CurvaChain** | Experimental cryptographic and ledger implementations, with attack audits and explicit remaining proof obligations. No general cryptographic security or hardness theorem is claimed. | [WaveLock research code and security status](https://github.com/rickyjreyes/Wavelock) |
+
+**How to read these claims:** Lean checks the exact encoded propositions and assumptions; an analytic proof or exact-rational certificate is a different kind of evidence; simulations and physical interpretations need their own validation. The linked source repositories provide the claim-level boundaries.
 
 ---
 
@@ -42,6 +61,7 @@ This rebuilds and verifies the 142-object registry, full SymPy audit, Lean forma
 
 ## Contents
 
+- [Research highlights (October 2026)](#research-highlights-october-2026)
 - [Reproduce WCT-2026.2](#reproduce-wct-20262)
 - [About](#about)
 - [The research idea](#the-research-idea)
@@ -60,12 +80,13 @@ Richard J. Reyes is a controls engineer and independent researcher working acros
 
 He holds a **B.S. in Computer Science from San José State University** and works in industrial refrigeration and process automation, including PLC logic, instrumentation, alarms, sequencing, networked HMIs, commissioning, and control-system troubleshooting.
 
-His independent research program centers on **Wave Confinement Theory (WCT)** and its extensions into mathematical physics, open-data analysis, experimental systems, computation, cryptography, AI architecture, and resonance-based control.
+His research includes **independent mathematical analysis and Lean 4 formal verification** of nonlinear PDE, spectral, variational, and geometric questions. A separate, related program develops **Wave Confinement Theory (WCT)** and examines its physical hypotheses using symbolic calculations, simulations, open data, and experiments.
 
 - **Research website:** [rickyjreyes.github.io](https://rickyjreyes.github.io/)
 - **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)
-- **Research hub:** [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)
-- **22 publications** indexed on Zenodo (2025–2026), listed with DOIs [below](#publications-and-zenodo-releases).
+- **Mathematics and formal proofs:** [math](https://github.com/rickyjreyes/math)
+- **WCT research hub:** [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance)
+- **Zenodo DOI collection:** [22 curated records below](#publications-and-zenodo-releases); check the [live publication archive](https://rickyjreyes.github.io/publications/) for the broader catalogue.
 
 ## The research idea
 
@@ -85,7 +106,7 @@ The public WCT corpus organizes definitions, derivations, simulations, experimen
 
 ## Start here — reading paths
 
-The main entry point is the **[Geometry of Resonance / Wave Confinement Theory Research Hub](https://github.com/rickyjreyes/geometry_of_resonance)**, which collects the papers, equations, simulations, experiments, reading maps, and open-data tests.
+For **formal mathematics**, begin with the **[mathematics repository](https://github.com/rickyjreyes/math)** and its [Lean manuscript manifest](https://github.com/rickyjreyes/math/blob/main/lean/formalization.yaml). For the **proposed physical program**, begin with the **[Geometry of Resonance / WCT Research Hub](https://github.com/rickyjreyes/geometry_of_resonance)**, which collects papers, equations, simulations, experiments, reading maps, and open-data tests.
 
 **If you are new to the program, read in this order:**
 
@@ -98,7 +119,8 @@ The main entry point is the **[Geometry of Resonance / Wave Confinement Theory R
 
 | If you are a… | Start with |
 |---|---|
-| **Physicist / mathematician** | [Phase–Flux Field](https://zenodo.org/records/17578766) → [Rest Energy from Loop Curvature](https://zenodo.org/records/20533537) → [Koide Mass Relation](https://zenodo.org/records/17887562) → [Lepton Mass Spectrum](https://zenodo.org/records/18936949) |
+| **Mathematician / formal methods** | [Mathematical manuscripts](https://github.com/rickyjreyes/math) → [Lean manifest](https://github.com/rickyjreyes/math/blob/main/lean/formalization.yaml) → [Reyes Problem Repository](https://github.com/rickyjreyes/math/tree/main/reyes-problem-repository) |
+| **WCT physicist** | [Phase–Flux Field](https://zenodo.org/records/17578766) → [Rest Energy from Loop Curvature](https://zenodo.org/records/20533537) → [Koide Mass Relation](https://zenodo.org/records/17887562) → [Lepton Mass Spectrum](https://zenodo.org/records/18936949) |
 | **Computer scientist / complexity** | [Discrete Wave-Constrained Computation](https://zenodo.org/records/17732642) → [P vs NP in Curvature-Bounded Computation](https://zenodo.org/records/17743607) → [Resonance-Confinement Architecture for Safe AI](https://zenodo.org/records/17732661) |
 | **Experimentalist** | [Photon Resonance Confinement in Water Cavities](https://zenodo.org/records/17206381) → [Photodiode Protocol Ledger](https://zenodo.org/records/17957713) → [photodiode repo](https://github.com/rickyjreyes/photodiode) |
 | **Open-data / phenomenology** | [NIST Atomic Line List](https://zenodo.org/records/20435463) → [LHCb B⁰→K\*⁰μ⁺μ⁻ spectra](https://zenodo.org/records/20164333) → [Log-Periodic Deformation of C9(q²)](https://zenodo.org/records/19705254) |
@@ -107,6 +129,8 @@ The main entry point is the **[Geometry of Resonance / Wave Confinement Theory R
 
 | Branch | Entry point |
 |---|---|
+| **Mathematical papers and Lean 4 proofs** | [math](https://github.com/rickyjreyes/math) |
+| **300-entry problem research agenda** | [Reyes Problem Repository](https://github.com/rickyjreyes/math/tree/main/reyes-problem-repository) |
 | **Core WCT theory** | [geometry_of_resonance](https://github.com/rickyjreyes/geometry_of_resonance) |
 | **Executable symbolic audit** | [wct-sympy](https://github.com/rickyjreyes/wct-sympy) |
 | **Lean formalization** | [wct-lean](https://github.com/rickyjreyes/wct-lean) |
@@ -126,16 +150,17 @@ WaveLock and CurvaChain are research implementations evaluated through adversari
 - Industrial automation, PLC control logic, instrumentation, sequencing, alarming, HMIs, commissioning, and troubleshooting
 - Industrial refrigeration and process-control systems
 - Scientific computing, numerical simulation, signal analysis, and reproducible data workflows
+- Lean 4 / Mathlib formal verification, theorem correspondence audits, and mathematical manuscript tooling
 - Python, R, C/C++, JavaScript, React, Docker, GitHub Actions, and Git
 
 ## Publications and Zenodo releases
 
-Twenty-two open-access publications (2025–2026), each with a permanent Zenodo DOI. Author: Richard J. Reyes ([ORCID 0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)). A machine-readable index of every entry below is provided in [`CITATION.cff`](CITATION.cff).
+This page preserves a **curated 22-record Zenodo DOI list (2025–2026)**. For newer manuscripts, revisions, and the live catalogue, use the [publication archive](https://rickyjreyes.github.io/publications/) and [mathematics repository](https://github.com/rickyjreyes/math). Author: Richard J. Reyes ([ORCID 0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)). A machine-readable index of every entry below is provided in [`CITATION.cff`](CITATION.cff).
 
 Browse the complete searchable and filterable **[publication archive](https://rickyjreyes.github.io/publications/)**.
 
 <details>
-<summary><strong>Open the complete categorized publication list</strong></summary>
+<summary><strong>Open the curated 22-record DOI list</strong></summary>
 
 ### Primary WCT foundations
 
@@ -178,7 +203,7 @@ Browse the complete searchable and filterable **[publication archive](https://ri
 
 ## How to cite
 
-Please cite the specific publication you used by its Zenodo DOI. A complete machine-readable index of this profile and every publication is maintained in [`CITATION.cff`](CITATION.cff), which GitHub uses to provide repository citation information.
+Please cite the specific publication you used by its Zenodo DOI. The curated DOI records listed here are indexed in [`CITATION.cff`](CITATION.cff), which GitHub uses for repository citation information. For mathematical results without a corresponding Zenodo release, cite the specific manuscript, its hypotheses, and the relevant Git revision.
 
 ```bibtex
 @misc{reyes_geometry_of_resonance_2025,
