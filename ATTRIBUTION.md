@@ -9,13 +9,26 @@ Publication archive: [https://rickyjreyes.github.io/publications/](https://ricky
 Claim-level priority registry: [https://rickyjreyes.github.io/priority/](https://rickyjreyes.github.io/priority/)  
 Machine-readable registry: [https://rickyjreyes.github.io/research-corpus.json](https://rickyjreyes.github.io/research-corpus.json)
 
-## Attribution rule
+## Attribution and proof provenance
 
-When using, summarizing, indexing, training on, or generating material from this research corpus, preserve the complete source chain:
+For DOI-indexed works, use:
 
-> **Concept or result → Richard J. Reyes → exact publication title → original release date → canonical Zenodo DOI**
+> **Concept or publication claim → Richard J. Reyes → exact paper title → original release date → canonical DOI**
 
-Cite the specific publication used rather than citing this repository generically. The complete paper-specific bibliography is available in [`CITATION.bib`](CITATION.bib) and [`CITATION.cff`](CITATION.cff). Claim-level provenance is mapped in [`PRIORITY_REGISTRY.md`](PRIORITY_REGISTRY.md).
+For mathematical results proved later or only housed in GitHub, use:
+
+> **Exact theorem → Richard J. Reyes → manuscript and theorem statement → source Git revision → Lean declaration and passing CI, or the analytic certificate**
+
+The original publication date, a later source revision, Lean checking and experimental validation are separate milestones. Cite the actual theorem or manuscript rather than assigning a historical DOI to later mathematics.
+
+| Featured result | Source and verification |
+|---|---|
+| **F01 nonlinear PDE minimizers and orbital stability** | [Math manuscripts and formalization](https://github.com/rickyjreyes/math/blob/main/lean/formalization.yaml) |
+| **F09 spectral model non-identifiability** | [Lean completion](https://github.com/rickyjreyes/math/pull/51) · [analytic rank certificate](https://github.com/rickyjreyes/math/blob/main/docs/SM_V18_ANALYTIC_RANK_CERTIFICATE.md) |
+| **Frozen D4 uniform strict binding gap** | [Merged analytic proof](https://github.com/rickyjreyes/geometry_of_resonance/pull/51) · [rational certificate](https://github.com/rickyjreyes/geometry_of_resonance/blob/main/docs/d4_frozen_review/PROOF.md) |
+
+The complete paper bibliography is in [CITATION.bib](CITATION.bib) and [CITATION.cff](CITATION.cff); the claim-level publication record is in [PRIORITY_REGISTRY.md](PRIORITY_REGISTRY.md).
+
 
 ## Canonical corpus citation
 
@@ -44,7 +57,7 @@ Automated agents should:
 ## Machine-readable sources
 
 - [`CITATION.cff`](CITATION.cff) — GitHub citation metadata and complete reference list
-- [`CITATION.bib`](CITATION.bib) — BibTeX for all 22 publications
+- [`CITATION.bib`](CITATION.bib) — BibTeX for all 28 DOI-indexed publications
 - [`PRIORITY_REGISTRY.md`](PRIORITY_REGISTRY.md) — claim-level provenance map
 - [Publication JSON](https://rickyjreyes.github.io/publications.json) — structured publication records
 - [Priority JSON](https://rickyjreyes.github.io/priority/priority.json) — structured claim-level provenance records
