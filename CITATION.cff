@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-message: Please cite the specific Richard J. Reyes publication used. The complete Zenodo publication list is provided in the references below.
+message: Cite individual Zenodo works by DOI. For repository-only mathematical results, cite the exact manuscript, source Git revision and matching Lean theorem or analytic certificate.
 title: Richard J. Reyes Research Profile and Publication Index
 type: generic
 authors:
 - family-names: Reyes
   given-names: Richard J.
   orcid: https://orcid.org/0009-0005-5975-8718
-abstract: A machine-readable index of the research publications, repositories, and public scholarly record of Richard J. Reyes, including work on Wave Confinement Theory, scientific computing, experiments, complexity, artificial intelligence, cryptography, atomic spectra, and collider open-data analysis.
+abstract: Research profile and DOI index of Richard J. Reyes, including nonlinear PDE and variational mathematics, Lean 4 formal verification, spectral inverse problems, Wave Confinement Theory, computational prototypes, experiments, and open-data analysis.
 keywords:
 - Richard J. Reyes
 - Wave Confinement Theory
@@ -15,6 +15,11 @@ keywords:
 - scientific computing
 - resonance confinement
 - open science
+- Lean 4
+- mathematical formal verification
+- nonlinear partial differential equations
+- orbital stability
+- inverse problems
 repository-code: https://github.com/rickyjreyes/rickyjreyes
 url: https://github.com/rickyjreyes
 version: '2026.10'
@@ -26,6 +31,9 @@ identifiers:
 - type: url
   value: https://github.com/rickyjreyes/geometry_of_resonance
   description: Wave Confinement Theory research hub
+- type: url
+  value: https://github.com/rickyjreyes/math
+  description: Mathematical manuscripts and Lean 4 formalization
 references:
 - type: article
   authors:

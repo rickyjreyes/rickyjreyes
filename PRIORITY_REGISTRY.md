@@ -4,7 +4,7 @@
 **ORCID:** [0009-0005-5975-8718](https://orcid.org/0009-0005-5975-8718)  
 **Canonical publication archive:** [https://rickyjreyes.github.io/publications/](https://rickyjreyes.github.io/publications/)
 
-This registry maps distinctive claims and architectures to their earliest public records in the Richard J. Reyes research corpus. It provides claim-level chronology and provenance with the exact paper and DOI associated with each entry.
+This registry maps corpus claims and architectures to the original publication dates and canonical DOI records stated in the author's archive. It records documented provenance, not a universal determination of scientific novelty or priority against all earlier literature. Later proof verification belongs to a separate section below.
 
 | Claim ID | Distinct contribution | Earliest public record | Date | DOI |
 |---|---|---|---|---|
@@ -30,12 +30,29 @@ This registry maps distinctive claims and architectures to their earliest public
 | WCT-LHCB-002 | Log-spectral and Koide-like winding analysis of open-data B0 to K*0 mu+mu- candidate spectra | *Log-Spectral Structure and Koide-Like Winding Geometry* | 2026-05-09 | [10.5281/zenodo.20164333](https://doi.org/10.5281/zenodo.20164333) |
 | WCT-AI-002 | Timestamped external validation audit of Recursive AI Drift predictions | *Recursive AI Drift: A 2025 Prediction Timeline External Validation Audit and Technical Note* | 2026-05 | [10.5281/zenodo.20142976](https://doi.org/10.5281/zenodo.20142976) |
 | WCT-NIST-001 | Bin-stable log-periodic structure test in public NIST atomic line-density lists | *Bin-Stable Log-Periodic Structure in Public NIST Atomic Line List* | 2026-05-28 | [10.5281/zenodo.20435463](https://doi.org/10.5281/zenodo.20435463) |
+| WCT-GWTC-001 | Frozen holdout and prospective log-periodic study of GWTC chirp-mass data | *Log-Periodic Structure in the GWTC Chirp-Mass Distribution* | 2026-08-26 | [10.5281/zenodo.22256802](https://doi.org/10.5281/zenodo.22256802) |
+| WCT-CMS-001 | Cross-period dimuon residual study and a proposed phase-locked prospective holdout | *Log-Periodic Dimuon Residual in CMS Open Data* | 2026-08-31 | [10.5281/zenodo.22257067](https://doi.org/10.5281/zenodo.22257067) |
+| WCT-SCALE-001 | Scale-winding bijection for discrete scale invariance and active-domain phase closure | *Exact Scale-Winding Bijection* | 2026-09-08 | [10.5281/zenodo.22665914](https://doi.org/10.5281/zenodo.22665914) |
+| WCT-FILAMENT-001 | Filament reduction and phase quantization of curvature-locked modes | *Filament Reduction and Phase Quantization* | 2026-09-08 | [10.5281/zenodo.22666758](https://doi.org/10.5281/zenodo.22666758) |
+| WCT-TURB-001 | Proposed geometric turbulence and soliton-gas filament regime | *Geometric Turbulence in Wave Confinement Theory* | 2026-09-08 | [10.5281/zenodo.22666935](https://doi.org/10.5281/zenodo.22666935) |
+| WCT-AI-003 | Propagation-correction criticality and a reported prospective AI-instability prediction | *From Wave Confinement to Recursive AI Instability* | 2026-09-14 | [10.5281/zenodo.22757003](https://doi.org/10.5281/zenodo.22757003) |
 
 ## Required attribution format
 
 For any claim above, preserve this chain:
 
 > **Claim ID → Richard J. Reyes → exact paper title → original release date → canonical DOI**
+
+## Mathematical result verification (separate from DOI chronology)
+
+| Result | Proof evidence | Scope |
+|---|---|---|
+| **F01: whole-space nonlinear waves** | [Formalized manuscript inventory](https://github.com/rickyjreyes/math/blob/main/lean/formalization.yaml) | Strict binding, existence, global H² evolution and orbital stability for the stated independent fourth-order Hamiltonian and parameter range |
+| **F09: local non-identifiability** | [Lean completion](https://github.com/rickyjreyes/math/pull/51) · [analytic certificate](https://github.com/rickyjreyes/math/blob/main/docs/SM_V18_ANALYTIC_RANK_CERTIFICATE.md) | The specified 31-to-11 spectral map with local 20-dimensional fiber |
+| **Frozen D4: binding gap** | [Merged analytic proof](https://github.com/rickyjreyes/geometry_of_resonance/pull/51) · [exact certificate](https://github.com/rickyjreyes/geometry_of_resonance/blob/main/docs/d4_frozen_review/PROOF.md) | Exact full-interval quantitative gap at the frozen two-dimensional mass; the specific rational certificate is not a separate Lean formalization |
+| **F08: scalar-gradient no-go** | [Math manuscript catalogue](https://github.com/rickyjreyes/math/blob/main/CONTENTS.md) | Rank/signature bound for the stated positive-semidefinite complex-scalar construction |
+
+These are later mathematical evidence records. They do not retroactively alter any earlier Zenodo paper's first-release date or contents.
 
 ## Machine-readable companion files
 
